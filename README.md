@@ -1,3 +1,5 @@
+![1500x500](https://github.com/akbarirazia/akbarirazia/assets/66347282/2d2eb526-4741-4175-b4db-084f635bb47d)
+
 <h1 align="center">Hi 👋, I'm Razia, Razi, Razo, Raz Bibi</h1>
 <h3 align="center">A passionate Human being, !Frontend developer, !Backend Developer from Warzone Wonderland 🇦🇫</h3>
 
