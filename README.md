@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center" style="display: inline;">Hi 👋, I'm Razia, Razi, Razo, Raz Bibi</h1>
+<h1 align="center" >  Hi 👋, I'm Razia, Razi, Razo, Raz Bibi</h1>
 
 <h3 align="center">A passionate Human being, !Frontend developer, !Backend Developer from Warzone Wonderland 🇦🇫</h3>
 
@@ -46,4 +46,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarirazia&" alt="akbarirazia" /></p>
 
-![skull](https://github.com/akbarirazia/akbarirazia/assets/66347282/e5599390-7e4c-4119-b9cc-b4272a365676) 
+<p align="center">
+
+  <img src="https://github.com/akbarirazia/akbarirazia/assets/66347282/e5599390-7e4c-4119-b9cc-b4272a365676" alt="Skull" width="70" height="70">
+</p>
