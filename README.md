@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **akbariharis14@gmail.com**
 
-- ⚡ Fun fact **I must be the funniest INFJ/INTJ. Do not approach if ye can't keep up!**
+- ⚡ Fun fact **Telephono-phobic, NEVER call me unless you want me to go to jail for murder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
