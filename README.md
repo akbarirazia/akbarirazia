@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **akbariharis14@gmail.com**
 
-- ⚡ Fun fact **Telephono-phobic, NEVER call me unless you want me to go to jail for murder**
+- ⚡ Fun fact **I'm telephonophobic. Calling me might land you in jail for murder.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
