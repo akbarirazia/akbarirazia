@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **anything interesting**
 
-- 👨‍💻 All of my projects are available at [https://akbarirazia.vercel.app/](https://akbarirazia.vercel.app/)
+- 👨‍💻 Not All of my projects are available at [https://akbarirazia.vercel.app/](https://akbarirazia.vercel.app/)
 
 - 💬 Ask me about **ReactJS, JavaScript, Tailwindcss, Docker, ExpressJS,TypeScript**
 
