@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center" >  Hi 👋, I'm Razia, Razi, Razo, Raz Bibi</h1>
+<h1 align="center" style="color: #2ecc71;">Hi 👋, I'm Razia, Razi, Razo, Raz Bibi</h1>
 
 <h3 align="center">A passionate Human being, !Frontend developer, !Backend Developer from Afghan-Land
 </h3>
@@ -41,10 +41,13 @@
 </p>
 
 <p align="center">
-![akbarirazia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akbarirazia&theme=vue-dark&hide_border=true)
+  
+![akbarirazia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akbarirazia&theme=vue-dark&hide_border=true) 
+  
 ![akbarirazia's Stats](https://github-readme-stats.vercel.app/api?username=akbarirazia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![akbarirazia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarirazia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 </p>
 
 
