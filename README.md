@@ -42,11 +42,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbarirazia&show_icons=true&locale=en&layout=compact" alt="akbarirazia" /></p>
+![akbarirazia's Stats](https://github-readme-stats.vercel.app/api?username=akbarirazia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akbarirazia&show_icons=true&locale=en" alt="akbarirazia" /></p>
+![akbarirazia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akbarirazia&theme=vue-dark&hide_border=true)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbarirazia" alt="akbarirazia" /></a> </p>
+![akbarirazia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarirazia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <p align="center">
 
