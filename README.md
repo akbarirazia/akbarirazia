@@ -40,13 +40,13 @@
 <a href="https://discord.gg/#3329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3329" height="30" width="40" /></a>
 </p>
 
-
-
+<p align="center">
+![akbarirazia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akbarirazia&theme=vue-dark&hide_border=true)
 ![akbarirazia's Stats](https://github-readme-stats.vercel.app/api?username=akbarirazia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![akbarirazia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akbarirazia&theme=vue-dark&hide_border=true)
-
 ![akbarirazia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarirazia&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+</p>
+
 
 <p align="center">
 
