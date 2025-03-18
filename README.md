@@ -5,7 +5,7 @@
 
 <h1 align="center" >  Hi 👋, I'm Razia, Razi, Razo, Raz Bibi</h1>
 
-<h3 align="center">A passionate Human being, !Frontend developer, !Backend Developer from ![image](https://github.com/user-attachments/assets/57d0cf39-95ad-4b0b-9493-a2f078c56679)
+<h3 align="center">A passionate Human being, !Frontend developer, !Backend Developer from Afghan-Land
 </h3>
 
 
