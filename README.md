@@ -43,7 +43,11 @@
 <p align="center">
 <h3 align="left">We code attack till our pulse is flat ~</h3>
 
-<img src="[https://github-readme-activity-graph.vercel.app/graph?username=akbarirazia&bg_color=161b22&color=ffffff&line=40B381&point=40B381&area=true&hide_border=true&hide_title=true]" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akbarirazia&bg_color=161b20&color=ffffff&line=67f7b6&point=40B381&area=true&hide_border=true&hide_title=true" />
+
+
+
+
 
 
   
