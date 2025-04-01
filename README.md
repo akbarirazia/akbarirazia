@@ -41,6 +41,10 @@
 </p>
 
 <p align="center">
+<h3 align="left">I code attack till my pulse is flat</h3>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akbarirazia&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
 
   
 ![akbarirazia's Stats](https://github-readme-stats.vercel.app/api?username=akbarirazia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
