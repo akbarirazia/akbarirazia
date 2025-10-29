@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **akbariharis14@gmail.com**
 
-- ⚡ Fun fact **I'm telephonophobic. NEVER GIVE ME A RING (I mean a phone call 😉).**
+- ⚡ Fun fact **I'm telephonophobic. NEVER GIVE ME A RING (I mean a phone ring/call 😉).**
 
 <h3 align="left">Stalk me legally:</h3>
 <p align="left">
