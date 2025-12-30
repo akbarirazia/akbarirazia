@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center" style="color: #2ecc71;">Hi 👋, I'm Razia, Razi, Razo, Raz Bibi</h1>
+<h1 align="center" style="color: #2ecc71;">Hi 👋, I'm Razia</h1>
 
 <h3 align="center">A passionate Human being, !Frontend developer, !Backend Developer from Afghan-Land
 </h3>
