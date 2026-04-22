@@ -54,7 +54,7 @@
 ---
 
 <div align="center">
-  <h3>💀 We code till our pulse is flat 💀</h3>
+  <h3>💀 We <del>vibe</del> code till our pulse is flat 💀</h3>
   <img src="https://github.com/akbarirazia/akbarirazia/assets/66347282/e5599390-7e4c-4119-b9cc-b4272a365676" alt="Skull" width="60" height="60">
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
